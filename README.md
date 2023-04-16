@@ -7,9 +7,9 @@
 
  `visual studio 2019 
 
+
  `将项目设置为Release 版本应该能直接编译成功
  `Setting the project to Release version should enable successful compilation directly.
-
 
 
  `添加了openssl静态库文件,所以EXE很大
