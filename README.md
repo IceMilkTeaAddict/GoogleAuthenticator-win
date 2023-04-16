@@ -1,3 +1,4 @@
+![001](https://user-images.githubusercontent.com/44484643/232308146-f19099ab-36b2-4b74-b9d7-706ccc381d9e.png)
 # GoogleAuthenticator-win
 
 ## 简易PC版OTP工具
